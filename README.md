@@ -13,11 +13,11 @@ Further, Pandas and Matplotlib have been used to create multiple line graph that
  ![](Resources/summerydf.png)
 
   - Considering above dataframe we can say follwing.
-   -  City type "Rural" has minimum Total Rides, Total Drivers and Total Fares comparing to othger two city types. 
-   -  City type "Urban" has highest number of Total Rides, Total Drivers and Total Fares.   
-   -  The Average Fare per Ride is concerned, the "Rural" city type has the highest fare ($34.62) while "Urban" has the lowest ($24.53). The differance is slightly over than $10 between Rual and urban city types. Average Fare per Ride differance between Rural and Suburban is $3.65 while observed $6.44 differance between Suburban and Urban.
-   -	The Average Fare per Drivers is concerned, the lowest fare is for "Urban" ($16.57) and highest is for "Rural" ($55.49). The Average Fare per Driver value for Rural is little over 3 times higher than "Urban". 
-   -	
+    -  City type "Rural" has minimum Total Rides, Total Drivers and Total Fares comparing to othger two city types. 
+    -  City type "Urban" has highest number of Total Rides, Total Drivers and Total Fares.   
+    -  The Average Fare per Ride is concerned, the "Rural" city type has the highest fare ($34.62) while "Urban" has the lowest ($24.53). The differance is slightly over than $10 between Rual and urban city types. Average Fare per Ride differance between Rural and Suburban is $3.65 while observed $6.44 differance between Suburban and Urban.
+    -	The Average Fare per Drivers is concerned, the lowest fare is for "Urban" ($16.57) and highest is for "Rural" ($55.49). The Average Fare per Driver value for Rural is little over 3 times higher than "Urban". 
+   
 
 #### Multiple line chart for weekly fare (from Jan Apr) among different city types
 
@@ -32,4 +32,4 @@ Further, Pandas and Matplotlib have been used to create multiple line graph that
 ## Summery
  - Driver to Rides ratio is higest in "Rural", so increse the number of drivers in Rural city type.
  - There is over $10 diffance between Average Fare per Ride in Urban and Rural, so recomanded to increase the formular to calculate ride fare for Urban cities. Since Urban cities having the higest nuber of rides, the company profit can be incresed dramatically.   
- - Average Fare per Ride is highest in Rural, but do we do see that its having least number of rides, so recomanding to do some marcketing/promotion campagins in Rural cirites to increase total rides, so it helps to increase company profit.  
+ - Average Fare per Ride is highest in Rural, but  we do see that its having least number of rides, so recomanding to do some marcketing/promotion campagins in Rural cirites to increase total rides, so it helps to increase company profit.  
