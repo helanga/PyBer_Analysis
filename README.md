@@ -30,6 +30,6 @@ Further, Pandas and Matplotlib have been used to create multiple line graph that
  - For the  City Type "Rural", the lowest Total Fares reported on end of the 1st week of January.  
 
 ## Summery
- - Not enough total drivers in rural cities considering total rides vs drivers.
- - When considering total rides and drivers we can see there is not enough drivers for rural cities.
- - Better to decrease average fare per Driver amount in rural cities and increase the number of drivers
+ - Driver to Rides ratio is higest in "Rural", so increse the number of drivers in Rural city type.
+ - There is over $10 diffance between Average Fare per Ride in Urban and Rural, so recomanded to increase the formular to calculate ride fare for Urban cities. Since Urban cities having the higest nuber of rides, the company profit can be incresed dramatically.   
+ - Average Fare per Ride is highest in Rural, but do we do see that its having least number of rides, so recomanding to do some marcketing/promotion campagins in Rural cirites to increase total rides, so it helps to increase company profit.  
