@@ -10,7 +10,7 @@ Further, Pandas and Matplotlib have been used to create multiple line graph that
 
 #### Summery dataframe  for ride sharing data among different city types.
 
- ![](Resources/summerydf.png)
+ ![](analysis/Pyber_fare_summery.png)
 
   - Considering above dataframe we can say follwing.
     -  City type "Rural" has minimum Total Rides, Total Drivers and Total Fares comparing to othger two city types. 
