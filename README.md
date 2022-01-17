@@ -16,15 +16,18 @@ Further, Pandas and Matplotlib have been used to create multiple line graph that
    -  City type "Rural" has minimum Total Rides, Total Drivers and Total Fares comparing to othger two city types. 
    -  City type "Urban" has highest number of Total Rides, Total Drivers and Total Fares.   
    -  The Average Fare per Ride is concerned, the "Rural" city type has the highest fare ($34.62) while "Urban" has the lowest ($24.53). The differance is slightly over than $10 between Rual and urban city types. Average Fare per Ride differance between Rural and Suburban is $3.65 while observed $6.44 differance between Suburban and Urban.
-   -	The Average Fare per Drivers is concerned, the lowest fare is for "Urban" ($16.57) and highest is for "Rural" ($55.49). Average Fare per Dribvers valune for Rural is little over 3 times higher than the value for "Urban". 
+   -	The Average Fare per Drivers is concerned, the lowest fare is for "Urban" ($16.57) and highest is for "Rural" ($55.49). The Average Fare per Driver value for Rural is little over 3 times higher than "Urban". 
    -	
 
 #### Multiple line chart for weekly fare (from Jan Apr) among different city types
 
 ![](Resources/linechart.png)
 
- - At glance in line chart, we can say urban cities has highest fare and rural cities has lowest fares with each weeks peaks or drops.
- - Considering all 3 city types we can say beginning of February 3rd week all 3 city types has highest ride fare.
+ - At glance in line chart, considering all 3 city types, "Urban" cities has highest Total Fares and "Rural" cities has the lowest.
+ - For all 3 City Types, from the beginning of February 3rd week to 4th week, the Total Fares shows continous rising and reached its peak value.
+ - For the  City Type "Urban", the lowest Total Fares reported on end of the 3rd week of April.
+ - For the  City Type "Suburban", the lowest Total Fares reported on end of the 1st week of April. 
+ - For the  City Type "Rural", the lowest Total Fares reported on end of the 1st week of January.  
 
 ## Summery
  - Not enough total drivers in rural cities considering total rides vs drivers.
